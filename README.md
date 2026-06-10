@@ -70,6 +70,9 @@ The objective of this analysis is to answer key business questions:
 
 ---
 
+### 🌐 Streamlit Live Application
+👉 https://bppscebyjjkevtii9njtgq.streamlit.app/
+
 ## 📊 Project Workflow
 
 ```text
